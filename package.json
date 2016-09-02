@@ -1,0 +1,15 @@
+{
+  "name": "crypto-tea",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aleechou/node-crypto-tea.git"
+  },
+  "author": "alee",
+  "license": "MIT"
+}
