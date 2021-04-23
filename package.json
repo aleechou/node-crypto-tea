@@ -1,8 +1,9 @@
 {
   "name": "crypto-tea",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,5 +12,8 @@
     "url": "https://github.com/aleechou/node-crypto-tea.git"
   },
   "author": "alee",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.14.41"
+  }
 }
